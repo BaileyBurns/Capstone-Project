@@ -1,0 +1,5 @@
+--Confirming the number of users in this study:
+SELECT 
+DISTINCT (Id) 
+FROM `bellabeatdata-354522.bellabeat.daily_activity`
+-- 33 unqiue ID's in this study
