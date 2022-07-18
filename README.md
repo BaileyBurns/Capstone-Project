@@ -1,7 +1,7 @@
 # Capstone-Project
 ### An analysis of Fitbit data to provide insights on future marketing and business decisions
 
-## Vizualization of the project in Tableau can be seen here:
+## Visualization of the project in Tableau can be seen here:
 https://public.tableau.com/app/profile/bailey.burns/viz/GoogleDataVizSQLTableau/Top5Bottom5CalorieBurners
 
 ## The Task
@@ -14,4 +14,4 @@ Please look at my other file containing the SQL code used to clean the data. Som
 I analyzed the data using SQL through Google's BigQuery. The Script can be found in my Final Code page in github.
 
 ## Insights
-Through my analysis I was able to find the behaviors of the top 5 calorie burners compared to the bottom 5 calorie burners. My vizualization on tableau shows how their overall daily activities differ. The end result of their differing activities directly results in their big differences in calories burned. I found that the top 5 calorie burners overall averaged far few sedentary minutes per day compared to the bottom 5. Bellabeat can use the information in my vizualization to improve their product in a few different ways. One recommendation would be to add a feature in their product that could send a notification to the customers device when they have reached over X amount minutes spent sedentary. This would improve overall performance of the customer by helping them acheive the ideal activity to reach their physical goals. Another insight from the analysis found that the top 5 calorie burners all spent a large amount of time in a fairly active state. Bellabeat could create a section in their app with a detailed list of workouts that would keep them in the fairly active activity range.
+Through my analysis I was able to find the behaviors of the top 5 calorie burners compared to the bottom 5 calorie burners. My visualization on tableau shows how their overall daily activities differ. The end result of their differing activities directly results in their big differences in calories burned. I found that the top 5 calorie burners overall averaged far few sedentary minutes per day compared to the bottom 5. Bellabeat can use the information in my visualization to improve their product in a few different ways. One recommendation would be to add a feature in their product that could send a notification to the customers device when they have reached over X amount minutes spent sedentary. This would improve overall performance of the customer by helping them achieve the ideal activity to reach their physical goals. Another insight from the analysis found that the top 5 calorie burners all spent a large amount of time in a fairly active state. Bellabeat could create a section in their app with a detailed list of workouts that would keep them in the fairly active activity range.
